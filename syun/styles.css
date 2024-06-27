@@ -161,6 +161,7 @@ main {
     color: black;
     text-decoration: none;
   }
+  a:hover {cursor: pointer;}
   a::after {
     height: 10px;
     width: 125px;
